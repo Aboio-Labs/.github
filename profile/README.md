@@ -1,5 +1,4 @@
-# Gupo Aboio
-*(pt-br)*
+# Gupo Aboio {#pt-br}
 ## Quem somos
 Fundada em março de 2020 pelo produtor cultural cearense [Leopoldo Cavalcante](https://github.com/Poldo11/), a **[Aboio](https://aboio.com.br)** nasceu como uma revista digital com foco em literatura em língua portuguesa, em especial produções de escritores independentes e sem acesso aos grandes centros econômicos do país. Seu objetivo inicial era descobrir e fomentar novas vozes e estéticas de autores que, de alguma forma, participassem da renovação da literatura brasileira contemporânea.
 
@@ -38,9 +37,8 @@ Os valores do **Grupo Aboio** refletem nosso compromisso com a literatura como u
 - Sustentabilidade financeira – Trabalhamos com projetos alinhados à realidade do mercado editorial, garantindo que cada publicação seja viável e capaz de alcançar seu público.
 - Bibliodiversidade qualitativa – Compromisso não apenas com a multiplicidade de autores, mas com a força estética de cada texto, tratando-os com profissionalismo.
 
-# Aboio Group
+# Aboio Group {#en-US}
 ## Who are we?
-*(en-US)*
 Founded in March 2020 by the Ceará cultural producer [Leopoldo Cavalcante](https://github.com/Poldo11/), **[Aboio](https://aboio.com.br)** began as a digital magazine focused on literature in the Portuguese language, especially productions by independent writers without access to the country's major economic centers. Its initial goal was to discover and foster new voices and aesthetics from authors who, in some way, were participating in the renewal of contemporary Brazilian literature.
 
 From the beginning, the proposal was more than just editorial: **Aboio** emerged as a complete literary-editorial program, structured to view literature as a cultural product that effectively reaches its audience: the readers. This involved planning on all fronts: editorial, artistic, financial, commercial, legal, administrative, graphic, and technological. By the end of 2021, *Revista Aboio* (Aboio Magazine) had published 221 authors on its digital portal, solidifying its position as a space for literary discovery and experimentation.
