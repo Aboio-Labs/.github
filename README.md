@@ -1,2 +1,2 @@
 # .github
-SOBRE
+Sobre
